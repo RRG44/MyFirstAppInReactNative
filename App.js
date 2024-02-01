@@ -15,7 +15,7 @@ const App = () =>{
     <View style = {style.container}>
       <Text style = {style.txtHelloWorld}>Hello, world!</Text>
       <Text style = {style.txtName}>I'm Ger</Text>
-      <Text style = {style.txtName}>I'm programming in class</Text>
+      <Text style = {style.txtName}>I'm programming in class 💻</Text>
     </View>
   );
 }
@@ -29,15 +29,15 @@ const style = StyleSheet.create({
     alignItems : 'center',
   },
   txtHelloWorld : {
-    fontSize : 40,
+    fontSize : 44,
     fontFamily : 'Helvetica',
     fontWeight : 'bold',
     color : '#fff'
   },
   txtName : {
-    fontSize : 32,
+    fontSize : 24,
     fontFamily : 'Helvetica',
-    fontWeight : 'bold',
+    fontWeight : 'normal',
     color : '#fff'
   }
 });
