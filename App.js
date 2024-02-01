@@ -14,8 +14,8 @@ const App = () =>{
   return(
     <View style = {style.container}>
       <Text style = {style.txtHelloWorld}>Hello, world!</Text>
-      <Text style = {style.txtname}>I'm Ger</Text>
-      <Text style = {style.txtname}>I'm programming in class</Text>
+      <Text style = {style.txtName}>I'm Ger</Text>
+      <Text style = {style.txtName}>I'm programming in class</Text>
     </View>
   );
 }
