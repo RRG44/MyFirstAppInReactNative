@@ -26,7 +26,7 @@ const style = StyleSheet.create({
     height : '100%',
     backgroundColor: '#5352ed',
     justifyContent : 'center',
-    alignItems : 'ceneter'
+    alignItems : 'center',
   },
   txtHelloWorld : {
     fontSize : 40,
